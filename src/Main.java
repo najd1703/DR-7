@@ -17,7 +17,7 @@ public class Main {
             System.out.println(weights[i]);
         }
 
-        System.out.println("Задача 1");
+        System.out.println("Задача 1 ");
         int[] boxApples = new int[3];
         boxApples[0] = 1;
         boxApples[1] = 2;
